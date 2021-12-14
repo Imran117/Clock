@@ -1,0 +1,15 @@
+@media(max-width:768px) {
+    .menu__list {
+        width: 40%;
+    }
+}
+@media(max-width:575px) {
+    .menu__list {
+        width: 100%;
+    }
+    
+    .btn-group {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
